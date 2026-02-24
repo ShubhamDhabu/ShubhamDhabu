@@ -46,15 +46,8 @@ Strong foundation in DSA, backend development, Python, SQL, and data analysis, w
 ---
 ## 📬 Get In Touch
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubham-dhabu-15183925b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dhabu-15183925b/)
 
-  <a href="mailto:shubhamdhabu06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdhabu06@gmail.com)
 
 ---
