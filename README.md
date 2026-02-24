@@ -39,10 +39,8 @@ Strong foundation in DSA, backend development, Python, SQL, and data analysis, w
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamDhabu&show_icons=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamDhabu&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDhabu&layout=compact&theme=github_dark)
 
 ---
